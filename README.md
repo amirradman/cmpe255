@@ -1,5 +1,7 @@
 San Jose State University
+
 CMPE 255 - Data Mining
+
 Professor Carlos Rojas
 
 ## Authors
